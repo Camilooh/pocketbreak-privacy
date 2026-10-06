@@ -1,21 +1,36 @@
 # Privacy Policy
 
-This privacy policy applies to the Pocket Break app for mobile devices, together with any related services operated by Camilo Gutierrez (collectively, the "Application"). Camilo Gutierrez is hereby referred to as the "Service Provider".
+This privacy policy applies to the Pocket Break app for mobile devices, together with any related services operated by Camilo Gutiérrez (collectively, the "Application"). Camilo Gutiérrez is hereby referred to as the "Service Provider".
 
 ## Information Collection and Use
 
-The Application collects information when you download and use it. This information may include information such as:
+The Application does not require an account and does not ask for your name, email address, phone number, contacts, photos or precise location. Your game progress, records, daily challenge streak and settings are stored only on your device and are not sent to any server. The Application works offline; the information below is only sent when your device is connected to the internet.
 
-- Your device's Internet Protocol address
+The Application uses third-party services that automatically collect information such as:
+
+- Your device's Internet Protocol (IP) address
 - The screens of the Application that you visit, the time and date of your visit, and the time spent on those screens
 - The time spent on the Application
-- The mobile operating system you use
+- The mobile operating system you use, your device model and language
+- An app installation identifier (used by Google Analytics for Firebase)
+- Your device's advertising identifier (used by Google AdMob to show ads)
+- Information about the ads you see and interact with
 
-The Application does not require an account and does not ask for your name, email address, phone number, contacts, photos or precise location. Your game progress, records, daily challenge streak and settings are stored only on your device and are not sent to any server. The Application works offline; usage data is only sent when your device is connected to the internet.
+## Advertising
+
+The Application shows ads through Google AdMob. AdMob may use your device's advertising identifier, IP address and information about your interactions with ads to show ads, limit how often you see them, measure their performance and prevent fraud. Ads are limited to content suitable for teenagers and adults.
+
+Where required by law (for example, in the European Economic Area, the United Kingdom and Switzerland), the Application asks for your consent before showing personalized ads, using Google's consent form. You can change your choice at any time from the Application's settings ("Privacy options").
+
+You can also reset your advertising identifier or opt out of personalized ads in your device settings (on most Android devices: Settings > Google > Ads, or Settings > Privacy > Ads).
+
+## In-App Purchases
+
+The Application offers an optional purchase to remove interstitial ads. Payments are processed by Google Play. The Service Provider does not receive your payment information; it only receives confirmation that the purchase was made, which the Application stores on your device.
 
 ## Cookies and Tracking Technologies
 
-The Application or its third-party SDKs may use cookies, SDKs, pixels, and similar technologies to support functionality, analytics, or service delivery. Where required by applicable law, the Service Provider will obtain consent before using non-essential tracking technologies.
+The Application or its third-party SDKs may use cookies, SDKs, pixels, and similar technologies to support functionality, analytics, advertising, or service delivery. Where required by applicable law, the Service Provider will obtain consent before using non-essential tracking technologies.
 
 ## Your Rights
 
@@ -23,15 +38,20 @@ You may request access to, correction of, or deletion of your personal data held
 
 ## Your California Privacy Rights (CCPA/CPRA)
 
-If you are a California resident, you have the right to know what personal information is collected, the right to delete personal information, the right to opt out of the sale or sharing of personal information, and the right to non-discrimination for exercising these rights. To exercise your CCPA/CPRA rights, contact the Service Provider at pocketbreak510@gmail.com.
+If you are a California resident, you have the right to know what personal information is collected, the right to delete personal information, the right to opt out of the sale or sharing of personal information, and the right to non-discrimination for exercising these rights. You can opt out of personalized ads as described in the Advertising section. To exercise your CCPA/CPRA rights, contact the Service Provider at pocketbreak510@gmail.com.
 
 ## Third Party Access
 
-The Application uses Google Analytics for Firebase to understand how the Application is used (for example, which games are played and how often the Application is opened) and to improve it. This data is linked to an app installation identifier, not to your name or email address. The Service Provider does not sell your information.
+The Application uses the following third-party services, which receive the information described above:
 
-Please note that third-party services have their own Privacy Policy about handling data. Below is the link to the Privacy Policy of the third-party service provider used by the Application:
+- **Google Analytics for Firebase**, to understand how the Application is used (for example, which games are played and how often the Application is opened) and to improve it. This data is linked to an app installation identifier, not to your name or email address.
+- **Google AdMob**, to show ads, as described in the Advertising section.
+
+The Service Provider does not sell your information. These services have their own privacy policies:
 
 - [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+- [Google AdMob: how Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites)
+- [Google Privacy Policy](https://policies.google.com/privacy)
 
 The Service Provider may disclose Automatically Collected Information:
 
@@ -51,13 +71,13 @@ Data protection laws in other countries may differ from those in your jurisdicti
 
 ## Opt-Out Rights
 
-You can stop further collection of information from your mobile device by uninstalling the Application. Uninstalling will stop the Application from collecting data from your device, but it does not automatically delete information that has already been transmitted to third parties.
+You can opt out of personalized ads as described in the Advertising section. You can stop all further collection of information from your mobile device by uninstalling the Application. Uninstalling will stop the Application from collecting data from your device, but it does not automatically delete information that has already been transmitted to third parties.
 
 To request deletion of your personal data, to withdraw consent, or to exercise any of your rights, contact the Service Provider at pocketbreak510@gmail.com.
 
 ## Data Retention Policy
 
-Usage data collected by Google Analytics for Firebase is retained for 14 months and then deleted automatically. Game progress and settings are stored only on your device and are deleted when you uninstall the Application or clear its data.
+Usage data collected by Google Analytics for Firebase is retained for 14 months and then deleted automatically. Information collected by Google AdMob is retained according to Google's policies, linked above. Game progress, settings and the record of your purchase are stored only on your device and are deleted when you uninstall the Application or clear its data (a purchase can be restored from Google Play).
 
 You may request deletion of your data by contacting the Service Provider at pocketbreak510@gmail.com.
 
@@ -81,7 +101,7 @@ The Service Provider may update this Privacy Policy from time to time. The Servi
 
 Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at pocketbreak510@gmail.com.
 
-This privacy policy is effective as of 2026-10-05.
+This privacy policy is effective as of 2026-10-06.
 
 ## Your Consent
 
